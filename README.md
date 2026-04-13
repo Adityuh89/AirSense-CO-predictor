@@ -5,7 +5,7 @@ I engineered this project to achieve high reliability in environmental monitorin
 Comparison MetricsModel
 R-Squared (R²)ReliabilityXGBoost (Selected)90.84%HighRandom Forest89.86%Medium-HighLinear Regression76.05%Low
 Tech Stack & EngineeringMachine Learning: XGBoost (Gradient Boosting), Scikit-Learn (Pipelines, Standard Scaling).Data Science: Pandas (Feature Engineering), Joblib (Model Serialization).Frontend/UI: Streamlit (Real-time inference engine), Custom CSS/HTML5.Deployment: Base64 Image Encoding for optimized asset loading in cloud environments.
-Link : https://airsense-predictor.streamlit.app
+Link :https://airsense-co-predictor-gaxjyydnamtdd8fmvoa5xj.streamlit.app/
 
 
 
